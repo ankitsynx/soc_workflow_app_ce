@@ -1,4 +1,4 @@
-POST /playbook/doc
+POST /playbook/_doc
 {
     "@timestamp": "1530687175111",
     "playbook_name" : "Password Security Basic",
